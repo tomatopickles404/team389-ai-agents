@@ -162,14 +162,4 @@ team389-ai-agents/
 - [Next.js 공식 문서](https://nextjs.org/docs)
 - [TypeScript 공식 문서](https://www.typescriptlang.org/docs/)
 
-## 📞 지원
 
-문제가 있거나 도움이 필요한 경우:
-
-1. 팀 내부 Slack 채널 활용
-2. GitHub Issues 생성
-3. 팀 리드에게 직접 문의
-
----
-
-**389팀 AI 개발 어시스턴트**와 함께 더 나은 코드를 작성하세요! 🚀
